@@ -32,6 +32,6 @@ Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de
 
 ![Público 2](img/global-devops-12.jpg)
 
-![Público 3](img/d-16.jpg)
+![Público 3](img/global-devops-04.jpg)
 
 ![Final](img/global-devops-30.jpg)
