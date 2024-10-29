@@ -4,13 +4,13 @@ Fotos e informações gerais sobre o evento "Global DevOps Experience", realizad
 Organizadores:
 - **Vinicius Moura (Microsoft MVP)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
-- **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
+- **Renato Groffe (Microsoft MVP, MTAC)**
 - **Atila Olivi (SENAI)**
 
 Palestrantes:
 - **Vinicius Moura (Microsoft MVP)**
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
-- **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
+- **Renato Groffe (Microsoft MVP, MTAC)**
 
 Número de participantes: **37 pessoas**
 
